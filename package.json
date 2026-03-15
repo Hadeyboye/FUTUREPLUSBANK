@@ -1,0 +1,38 @@
+{
+  "name": "futureplus-bank-web",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.0.0",
+    "react": "^19.0.0-rc-f994737d14-20240522",
+    "react-dom": "^19.0.0-rc-f994737d14-20240522",
+    "@tanstack/react-query": "^5.51.1",
+    "zustand": "^4.5.5",
+    "next-auth": "^4.24.7",
+    "recharts": "^2.12.7",
+    "framer-motion": "^11.2.13",
+    "lucide-react": "^0.395.0",
+    "zod": "^3.23.8",
+    "react-hook-form": "^7.52.2",
+    "@hookform/resolvers": "^3.9.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.0"
+  }
+}
