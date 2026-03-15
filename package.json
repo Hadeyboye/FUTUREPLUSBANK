@@ -9,30 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.0.5",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "@tanstack/react-query": "^5.51.1",
+    "next": "^15.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@tanstack/react-query": "^5.59.0",
     "zustand": "^4.5.5",
     "next-auth": "^4.24.7",
-    "recharts": "^2.12.7",
-    "framer-motion": "^11.2.13",
-    "lucide-react": "^0.395.0",
+    "recharts": "^2.13.0",
+    "framer-motion": "^11.5.0",
+    "lucide-react": "^0.446.0",
     "zod": "^3.23.8",
-    "react-hook-form": "^7.52.2",
-    "@hookform/resolvers": "^3.9.0",
+    "react-hook-form": "^7.53.0",
+    "@hookform/resolvers": "^3.10.0",
     "clsx": "^2.1.1",
     "tailwind-merge": "^2.5.2"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "typescript": "^5.6.0",
-    "tailwindcss": "^3.4.1",
-    "postcss": "^8",
-    "autoprefixer": "^10",
-    "eslint": "^8",
-    "eslint-config-next": "15.0.5"
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.6.2",
+    "tailwindcss": "^3.4.3",
+    "postcss": "^8.4.47",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.10.0",
+    "eslint-config-next": "^15.1.0"
   }
 }
